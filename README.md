@@ -25,4 +25,4 @@ Aspiring Software Developer with a passion for building intuitive and impactful 
 
 - **✉️ Email:** [sejalch2933@gmail.com](mailto:sejalch2933@gmail.com)
 - **🔗 LinkedIn:** [Sejal Chaudhary](https://www.linkedin.com/in/sejalchaudhary29/)
-- **💻 GitHub:** [SejalChaudhary29](https://github.com/SejalChaudhary29)
+- **💻 GitHub:** [Sejal Chaudhary](https://github.com/SejalChaudhary29)
