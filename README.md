@@ -11,16 +11,6 @@ Aspiring Software Developer with a passion for building intuitive and impactful 
 - **Other Tools:** REST API, Responsive Design, Networking
 - **Soft Skills:** Problem-solving, Collaboration, Communication
 
-## 📚 Education
-
-- **Master of Computer Application**  
-  R C Patel Institute of Management and Research Development, Shirpur  
-  *2024 - 2026*
-
-- **Bachelor of Business Administration (Marketing Management)**  
-  K K Wagh Arts, Commerce and Computer Science College, Nashik  
-  *2020 - 2023 | CGPA: 8.40*
-
 ## 📊 GitHub Stats
 
 | **Metric**                     | **Stats**                                                                                     |
