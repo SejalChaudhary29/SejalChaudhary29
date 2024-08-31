@@ -1,4 +1,4 @@
-# 👩‍💻 Hi there, I'm **Sejal Chaudhary**! 👋
+#  Hello World, I'm **Sejal Chaudhary**! 👋
 
 Aspiring Software Developer with a passion for building intuitive and impactful web experiences. Currently pursuing a Master's in Computer Application, I am focused on enhancing my skills in **Java**, **JavaScript**, and **full-stack development**. I thrive in collaborative environments and continuously seek opportunities to contribute and grow in dynamic teams.
 
