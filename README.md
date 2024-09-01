@@ -19,7 +19,7 @@ Feel free to check out my projects and connect with me!
 
 | **Metric**                     | **Stats**                                                                                     |
 |--------------------------------|-----------------------------------------------------------------------------------------------|
-| **🔢 Total Repositories**       | ![Repositories](https://img.shields.io/github/repos/SejalChaudhary29?color=blue)              |
+| **🔢 Total Repositories**       |![Repositories](https://img.shields.io/github/repos/SejalChaudhary29?color=blue)           |
 | **📈 Total Contributions**      | ![Contributions](https://github-readme-stats.vercel.app/api?username=SejalChaudhary29&count_private=true&show_icons=true&theme=default) |
 | **🔤 Top Languages**            | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejalChaudhary29&layout=compact) |
 | **🔥 GitHub Streak**            | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SejalChaudhary29)     |
