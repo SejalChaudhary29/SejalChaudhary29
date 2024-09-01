@@ -19,10 +19,11 @@ Feel free to check out my projects and connect with me!
 
 | **Metric**                     | **Details**                                                                                     |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
-| **📦 Total Repositories**       | ![Repositories](https://img.shields.io/github/repo-count/SejalChaudhary29?color=blue&label=Total%20Repositories&style=for-the-badge) |
-| **📈 Total Contributions**      | ![Contributions](https://github-readme-stats.vercel.app/api?username=SejalChaudhary29&count_private=true&show_icons=true&theme=radical&include_all_commits=true) |
+| **📦 Total Repositories**       | ![Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSejalChaudhary29%2Frepos&color=blue) |
+| **📈 Total Contributions**      | ![Contributions](https://github-readme-stats.vercel.app/api?username=SejalChaudhary29&count_private=true&show_icons=true&theme=radical) |
 | **🔤 Top Languages**            | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejalChaudhary29&layout=compact&theme=radical) |
-| **🔥 GitHub Streak**            | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SejalChaudhary29&theme=radical) |
+| **🔥 GitHub Streak**            | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SejalChaudhary29&theme=radical)     |
+
 
 
 
